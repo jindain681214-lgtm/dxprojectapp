@@ -16,6 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+```
 lib/
 ├── main.dart                      // [앱의 시작점] 앱 실행, 초기화, 로그인 화면 호출
 ├── firebase_options.dart          // [Firebase] Firebase 연동 설정
@@ -52,3 +53,4 @@ lib/
 └── services/                      // [기능 로직]
     ├── notification_service.dart  // 로컬 푸시 알림(상단바 알림) 기능 담당
     └── weather_service.dart       // 날씨 API 통신 (OpenWeatherMap) 담당
+```
